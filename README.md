@@ -1,5 +1,5 @@
-# quickyDev_teste
- Test PHP Full Stack for QuickDev
+# quikDev_teste
+ Test PHP Full Stack for QuikDev
 
 ## O que é necessário para rodar?
 <ol>
