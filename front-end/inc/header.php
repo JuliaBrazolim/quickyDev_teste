@@ -15,14 +15,7 @@
             <small class="text-uppercase">filmes</small>
             <h1 class="font-weight-light">Guia do Cinéfilo</h1>
             <p class="lead">Procure por filmes e seus detalhes!</p>
-
-            <form id="searchMovie" class="form-inline mx-auto d-block">
-              <input class="form-control mr-sm-2" type="text" id="searchTitle" placeholder="Digite o título, gênero..." aria-label="Search">
-          </form>
           </div>
         </div>
       </div>
     </header>
-
-
-
